@@ -1,0 +1,11 @@
+service_account.json
+*.json
+online_log.csv
+__pycache__/
+
+# CyberShoke scraper output
+*.csv
+*.log
+
+# IDE
+.idea/
